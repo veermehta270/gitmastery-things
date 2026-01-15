@@ -2,3 +2,4 @@ apples
 anans
 cherries
 dragon fruits
+figs
